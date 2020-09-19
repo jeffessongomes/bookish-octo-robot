@@ -66,6 +66,8 @@ Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações
 
 [javascript]: https://devdocs.io/javascript/
 
+[jsonwebtoken]: https://jwt.io/introduction/
+
 [expressjs]: https://devdocs.io/express/
 
 [bcryptjs]: https://openbase.io/js/bcryptjs/documentation
