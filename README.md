@@ -66,6 +66,8 @@ Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações
 
 [javascript]: https://devdocs.io/javascript/
 
+[expressjs]: https://devdocs.io/express/
+
 [bcryptjs]: https://openbase.io/js/bcryptjs/documentation
 
 [Sequelize]: https://sequelize.org/master/manual/getting-started.html
